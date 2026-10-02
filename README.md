@@ -2,7 +2,7 @@
 
 <p align="center">
   Estudante de Engenharia de Software · QA · Design e Web Design<br>
-  Construindo minha carreira como <b>desenvolvedora Full Stack</b> 🚀
+  Construindo minha carreira como <b>desenvolvedora Full Stack</b> 
 </p>
 
 <p align="center">
@@ -12,15 +12,15 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
-- 🎓 Cursando **Engenharia de Software** (2º semestre)
-- 🧪 Atuo em uma empresa de tecnologia com **QA (Quality Assurance)** e no acompanhamento de **projetos de marketing**
-- 🎨 Vim do **Marketing**: cerca de 2 anos com design e webdesign
-- 🤖 Tenho contato com **Inteligência Artificial** através do desenvolvimento de assistentes para empresas
-- 📍 Curitiba, Paraná
+-  Cursando **Engenharia de Software** (2º semestre)
+-  Atuo em uma empresa de tecnologia com **QA (Quality Assurance)** e no acompanhamento de **projetos de marketing**
+-  Vim do **Marketing**: cerca de 2 anos com design e webdesign
+-  Tenho contato com **Inteligência Artificial** através do desenvolvimento de assistentes para empresas
+  📍 Curitiba, Paraná
 
-## 🎯 Objetivo profissional
+## Objetivo profissional
 
 Me tornar **desenvolvedora Full Stack**, unindo desenvolvimento de software, **gestão de projetos** e **Inteligência Artificial**.
 
@@ -30,7 +30,7 @@ Me tornar **desenvolvedora Full Stack**, unindo desenvolvimento de software, **g
 | **Médio** (2 a 3 anos) | Atuar como desenvolvedora Full Stack, com liderança e gestão de projetos |
 | **Longo** (5+ anos) | Full Stack sênior, pós-graduação em IA e experiência internacional |
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,14 +42,13 @@ Me tornar **desenvolvedora Full Stack**, unindo desenvolvimento de software, **g
 
 **Também trabalho com:** testes de software (QA) · design e webdesign · gestão de demandas de projetos
 
-## 📚 Estudando agora
+##  Estudando agora
 
-- ⚙️ Backend, APIs e bancos de dados
-- 🏗️ Arquitetura de sistemas
-- 🧪 Certificação **ISTQB CTFL** (QA)
+-  Backend, APIs e bancos de dados
+-  Arquitetura de sistemas
 - 🗣️ Espanhol (intermediário-avançado) e inglês (intermediário)
 
-## 📂 Projetos
+##  Projetos
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
@@ -57,7 +56,7 @@ Me tornar **desenvolvedora Full Stack**, unindo desenvolvimento de software, **g
 | **FixItCar** *(projeto acadêmico em equipe)* | Plataforma web que conecta motoristas a mecânicos, seguradoras e fornecedores de peças por GPS | React · Vite · Tailwind |
 | **Link Forte AR** *(projeto em equipe)* | Site de uma autoridade certificadora digital, com fluxo de branches e deploy na Vercel | Git · Vercel |
 
-## 🌎 Idiomas
+##  Idiomas
 
 | Idioma | Nível |
 |--------|-------|
@@ -65,6 +64,6 @@ Me tornar **desenvolvedora Full Stack**, unindo desenvolvimento de software, **g
 | Espanhol | Intermediário-avançado |
 | Inglês | Intermediário |
 
-## 🤝 Vamos conversar?
+## Vamos conversar?
 
 Estou aberta a trocar ideias sobre **QA, desenvolvimento, IA e carreira em tecnologia**. Me chama no [LinkedIn](https://www.linkedin.com/in/ludmila-ladislau-2ab0562a7/)! 💬
