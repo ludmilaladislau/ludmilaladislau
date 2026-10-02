@@ -46,7 +46,7 @@ Me tornar **desenvolvedora Full Stack**, unindo desenvolvimento de software, **g
 
 -  Backend, APIs e bancos de dados
 -  Arquitetura de sistemas
-- 🗣️ Espanhol (intermediário-avançado) e inglês (intermediário)
+-  Espanhol (intermediário-avançado) e inglês (intermediário)
 
 ##  Projetos
 
